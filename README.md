@@ -1,3 +1,5 @@
+Name: CJ Liu
+
 a) Iterations are picked based on the amount of time taken by the whole program. As we increased the number of objects time taken by program increased sigfinicantly from one run to next because objects are increasing with a factor of 2 in every run.
 b) Time taken shown is the median over 5 runs with same number of objects and iterations. I choose median because it will help in eliminate the outlier that can skew the result in case of average.
 
